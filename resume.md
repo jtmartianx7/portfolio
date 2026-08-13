@@ -3,7 +3,7 @@
 # John's Resume
 
 > _born 1949_
-> Engineer, Artist, Visionary
+> Engineer, Artist, Visionary  
 > Creative Luckiness
 
 Five decades of carpentry, metalwork, automotive and marine engineering, sculpture, and speculative design — captured piecemeal across build logs, portfolio scans, and photo albums. Dates marked **(?)** are approximate and awaiting confirmation; undated work is listed separately below in rough thematic order until it can be placed on the timeline.

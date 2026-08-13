@@ -1,7 +1,7 @@
 # John's Portfolio
 
 > _born 1949_
-> Engineer, Artist, Visionary
+> Engineer, Artist, Visionary  
 > Creative Luckiness
 
 - - -
