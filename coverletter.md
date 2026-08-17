@@ -15,7 +15,7 @@ My enclosed portfolio covers five decades of hands-on engineering across carpent
 
 I am technically retired, but I have found that I simply cannot stop inventing and building. Watching SpaceX's Starship launches gave me an idea I could not put down — a concept for addressing the vibration, acoustic, and shockwave loads around the launch pad, adapting principles from earthquake-isolation engineering. I sketched it, then built a physical model to explain it properly. I have attached the concept as a separate document for your engineering team's consideration; I would be glad to discuss it, whether or not it has practical merit.
 
-Please find enclosed my portfolio and the launch pad concept referenced above. I would welcome the opportunity to discuss how my background could contribute to the launch pad team.
+Please find enclosed the launch pad concept referenced above, and my portfolio. I would welcome the opportunity to discuss how my background could contribute to the launch pad team.
 
 Regards,
 

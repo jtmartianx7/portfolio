@@ -1,9 +1,6 @@
 # Solution to Launch Pad Vibration Problem
 
 
-Dear SpaceX Engineering Team,
-
-
 ## Summary
 
 > Starship launches generate extreme vibration, acoustic, and shockwave loads around the pad. This proposal adapts earthquake-isolation engineering to manage those loads: a central tower with five surrounding pads and a water-filled damping basin, working alongside SpaceX's existing deluge system rather than replacing it. A physical model and a two-stage test plan — small-scale single-engine mock-up, then a larger integrated prototype — are outlined below to evaluate the concept.
@@ -102,6 +99,11 @@ P.S. Please excuse the stainless-steel thermos flask. I'm fairly certain herbal 
 
 ## Figures
 
-![view from top above water](i/launchpad/top.JPG)
 
+![Vision](i/launchpad/side.JPG)
 
+![Variation of the Vision](i/launchpad/front.JPG)
+
+![Variation of the Vision](i/launchpad/top.JPG)
+
+![if that works then you can build a whole block of 5 lauch pads](i/launchpad/tower_plus_5.jpg)
